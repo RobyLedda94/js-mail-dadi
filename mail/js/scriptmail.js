@@ -19,7 +19,7 @@ console.log(email);
 let found_email = false;
 
 for (let i = 0; i < email.length; i++){
-    if (email[i] === 'robyledda@pippo.it'){
+    if (email[i] === userEmail){
         found_email = true;
     }
 }
