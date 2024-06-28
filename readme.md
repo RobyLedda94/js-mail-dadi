@@ -29,11 +29,12 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 <!-- PSEUDO CODICE DADI  -->
 
-1 - Utilizzo la funzione Mat.random per generare un numero casuale da 1 a 6
-2 - Creo 2 variabili la prima assegna un numero casuale all'utente e la seconda assegna un numero casuale al computer
-3 - determino il vincitore utilizzando una condizionale in questo modo confronto il punteggio
- 3.1 ? se e maggiore il punteggio dell'utente vince
- 3.2 ? se e maggiore il punteggio del computer vince
- 3.3 altrimenti c'e un pareggio
+1 - Prima creo la struttura dati che contiene i numeri da 1 a 6
+2 - Utilizzo la funzione Mat.random per generare un numero casuale da 1 a 6
+3 - Creo 2 variabili la prima assegna un numero casuale all'utente e la seconda assegna un numero casuale al computer
+4 - determino il vincitore utilizzando una condizionale in questo modo confronto il punteggio
+ 4.1 ? se e maggiore il punteggio dell'utente vince
+ 4.2 ? se e maggiore il punteggio del computer vince
+ 4.3 altrimenti c'e un pareggio
 
  
