@@ -27,3 +27,7 @@ for (let i = 0; i < email.length; i++){
 if (found_email === true) {
     console.log('La tua email e valida');
 }
+
+else {
+    console.log('La tua email non e valida');
+}
